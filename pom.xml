@@ -578,6 +578,8 @@
         </property>
       </activation>
       <modules>
+        <module>alsa</module>
+        <module>libremidi</module>
         <module>opencv</module>
         <module>ffmpeg</module>
         <module>flycapture</module>
@@ -1076,6 +1078,8 @@
         </property>
       </activation>
       <modules>
+        <module>alsa</module>
+        <module>libremidi</module>
         <module>opencv</module>
         <module>ffmpeg</module>
         <module>flycapture</module>
@@ -1132,6 +1136,8 @@
         </property>
       </activation>
       <modules>
+        <module>alsa</module>
+        <module>libremidi</module>
         <module>opencv</module>
         <module>ffmpeg</module>
         <module>flycapture</module>
@@ -1189,6 +1195,8 @@
         </property>
       </activation>
       <modules>
+        <module>alsa</module>
+        <module>libremidi</module>
         <module>opencv</module>
         <module>ffmpeg</module>
         <module>libdc1394</module>
@@ -1243,6 +1251,8 @@
         </property>
       </activation>
       <modules>
+        <module>alsa</module>
+        <module>libremidi</module>
         <module>opencv</module>
         <module>ffmpeg</module>
         <module>flycapture</module>
@@ -1307,6 +1317,8 @@
         </property>
       </activation>
       <modules>
+        <module>alsa</module>
+        <module>libremidi</module>
         <module>opencv</module>
         <module>ffmpeg</module>
         <module>flycapture</module>
